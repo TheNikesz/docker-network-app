@@ -11,7 +11,7 @@ b. Kontenery D2 i S1 nie mogą wykorzystać mechanizmu dynamicznego przypisywani
 # 1.
 
 Nie można używać aliasów do komunikacji pomiędzy kontenerami przyłączonymi do dwóch różnych sieci.
-Zarówno ```--network-alias``` jak i ```-alias``` nadają 'network-scoped alias', czyli alias o zasięgu tylko obecnej sieci.
+Zarówno ```--network-alias``` jak i ```--alias``` nadają 'network-scoped alias', czyli alias o zasięgu tylko obecnej sieci.
 
 # 2E.
 
